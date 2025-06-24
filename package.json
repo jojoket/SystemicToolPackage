@@ -1,0 +1,21 @@
+{
+    "name": "com.jojoket.systemictool",
+    "version": "0.0.1",
+    "displayName": "SystemicTool",
+    "description": "Tool to display the hierarchy in a graphic way. Helps seeing the whole thing and design the systems of your game in an easier way.",
+    "unity": "2023.2",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": {
+    },
+   "keywords": [
+        "Tool",
+        "Editor"
+    ],
+    "author": {
+      "name": "jojoket",
+      "email": "jjonchay12@gmail.com",
+      "url": "https://github.com/jojoket/SystemicToolPublic"
+    }
+  }

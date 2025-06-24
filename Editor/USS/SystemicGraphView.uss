@@ -1,0 +1,10 @@
+SystemicGraphView{
+	flex-grow:1;
+}
+#Grid
+{
+	--thick-lines:0;
+	--spacing:30;
+	--grid-background-color: rgb(35,35,35);
+	--line-color: rgb(42,42,42);
+}

@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0.39);">
+        <ui:Label text="DataName" style="color: rgb(255, 255, 255); -unity-text-align: upper-center; -unity-font-style: bold;" />
+        <uie:ObjectField label="Current data" type="SystemicViewData, Assembly-CSharp" style="color: rgb(255, 255, 255);" />
+        <uie:MaskField label="Tags" style="color: rgb(255, 255, 255);" />
+    </ui:VisualElement>
+</ui:UXML>
